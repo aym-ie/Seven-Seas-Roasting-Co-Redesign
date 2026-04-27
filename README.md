@@ -1,4 +1,4 @@
-# Seven-Seas-Roasting-Co-Redesign
+# Seven Seas Roasting Co Website Redesign
 A working Figma redesign for Seven Seas Roasting Co's website done with feedback from the owner.
 
 
